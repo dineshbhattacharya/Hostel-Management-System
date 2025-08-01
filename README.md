@@ -69,24 +69,29 @@ Hostel-Management-System/
 ```
 ---
 
-📈 Results
-🎯 70% reduction in manual overhead for monthly expense tracking
+## 📈 Results
 
-⚡ Improved data accuracy and consistency through normalization
+- 🎯 **70% reduction in manual overhead** for monthly expense tracking  
+- ⚡ **Improved data accuracy** and consistency through normalization  
+- 🧑‍💼 **Scaled to support 500+ active users** across roles
 
-🧑‍🎓 Scaled to support 500+ active users across roles
+---
 
-📌 Future Improvements
-Add web-based frontend using PHP or Python (Flask/Django)
+## 📌 Future Improvements
 
-Integrate email/SMS notifications for reminders and billing
+- 🔧 Add web-based frontend using PHP or Python (Flask/Django)  
+- 📩 Integrate email/SMS notifications for reminders and billing  
+- 📊 Implement real-time analytics dashboard
 
-Implement real-time analytics dashboard
+---
 
-📫 Contact
-Dinesh Bhattacharya
-📧 dineshbhattacharya2002@gmail.com
+## 📫 Contact
+
+**Dinesh Bhattacharya**  
+📧 dineshbhattacharya2002@gmail.com(mailto:dineshbhattacharya2002@gmail.com)  
 🔗 [LinkedIn / GitHub / Portfolio link if applicable]
 
-⚠️ This project was developed for academic purposes. Production use may require additional security and optimization.
+---
+
+> ⚠️ **Note:** This project was developed for academic purposes. Production use may require additional security and optimization.
 
