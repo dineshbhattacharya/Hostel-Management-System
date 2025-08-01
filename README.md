@@ -88,7 +88,7 @@ Hostel-Management-System/
 ## 📫 Contact
 
 **Dinesh Bhattacharya**  
-📧 dineshbhattacharya2002@gmail.com(mailto:dineshbhattacharya2002@gmail.com)  
+📧 dineshbhattacharya2002@gmail.com
 🔗 [LinkedIn / GitHub / Portfolio link if applicable]
 
 ---
